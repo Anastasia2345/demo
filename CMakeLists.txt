@@ -1,11 +1,2 @@
-#include <iostream>
-
-using namespace std;
-
-int main ()
-{
-	int a,b;
-	cout << "Enter A and B: ";
-	cin >> a >> b;
-	cout << "A + B = " a + b << '\n';
-}
+The Cake Is a Lie
+The first number multiplied by 2
